@@ -1,9 +1,12 @@
-<p align="center">
-  <span><img src="./terminal.svg" alt="prosper@dev — full-stack developer building health information systems @hisprwanda" width="100%"/></span>
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:prosper.rk1@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=3fb950&labelColor=0d1117" alt="Email"/></a>
-  <a href="https://linkedin.com/in/nishimwe-rukundo-prosper-175417289"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" alt="LinkedIn"/></a>
-  <!--<a href="ORG_WEBSITE_URL"><img src="https://img.shields.io/badge/-@hisprwanda-0d1117?style=flat-square&logo=githubsponsors&logoColor=d2a8ff&labelColor=0d1117" alt="HISP Rwanda"/></a>-->
-</p>
+**prosper nishimwe**
+
+full-stack developer. building health information systems at [@hisprwanda]([ORG_WEBSITE_URL](https://hisprwanda.org/)).
+lately, making [reactor](#) — a quiet GNOME panel for containers, queues & CI.
+
+<sub>typescript · nestjs · next.js · spring boot · postgresql · docker · rabbitmq</sub>
+
+<br>
+
+<sub>not much of a talker. this page won't be either. &nbsp;·&nbsp; [email](mailto:prosper.rk1@gmail.com) · [linkedin](https://linkedin.com/in/nishimwe-rukundo-prosper-175417289)</sub>
