@@ -17,5 +17,5 @@ Less noise, more signal.
 
 <p align="left">
   <a href="mailto:prosper.rk1@gmail.com"><img src="https://img.shields.io/badge/-Email-555?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/nishimwe-rukundo-prosper-175417289)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nishimwe-rukundo-prosper-175417289"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
