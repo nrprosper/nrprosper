@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Nishimwe Rukundo Prosper</h1>
+<h1 align="center">Hi there 👋, I'm Nishimwe Prosper</h1>
 
 <p align="center">
   I am a passionate and dedicated full stack developer with expertise in building high-performance applications using modern web technologies.
