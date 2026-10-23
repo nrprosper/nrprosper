@@ -1,11 +1,9 @@
-<br>
+<h2>PROSPER NISHIMWE</h2>
 
-**prosper nishimwe**
+full-stack developer — building $\color{#3fb950}{\textsf{health information systems}}$ at [**@hisprwanda**](https://hisprwanda.org/)<br>
+lately making [**reactor**](#), a quiet GNOME panel for containers, queues & CI.
 
-full-stack developer. building health information systems at [@hisprwanda]([ORG_WEBSITE_URL](https://hisprwanda.org/)).
-lately, making [reactor](#) — a quiet GNOME panel for containers, queues & CI.
-
-<sub>typescript · nestjs · next.js · spring boot · postgresql · docker · rabbitmq</sub>
+`typescript` `nestjs` `next.js` `spring boot` `postgresql` `docker` `rabbitmq`
 
 <br>
 
